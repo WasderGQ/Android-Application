@@ -109,4 +109,15 @@
         app:layout_constraintStart_toStartOf="@+id/tvTipAmount"
         app:layout_constraintTop_toTopOf="@+id/tvtotalLabel"
         app:layout_constraintVertical_bias="0.74" />
+
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".MainActivity">
+        <!-- ViewBinder Code -->
+
+    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
